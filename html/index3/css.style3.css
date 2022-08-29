@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.header {
+    width: 400px;
+    height: 100px;
+    background-color: #141f40;
+}
+.main {
+   display: flex;
+}
+.left {
+    width: 150px;
+    height: 250px;
+    background-color: #80bfa8;
+    float: left;
+}
+.right {
+    float: left;
+}
+.rightm {
+    float: left;;
+}
+.mt {
+    width: 150px;
+    height: 50px;
+    background-color: #dbd400;
+}
+
+.mm {
+    width: 150px;
+    height: 100px;
+    background-color: #0093b7;
+    
+}
+
+.mr {
+    width: 100px;
+    height: 150px;
+    background-color: #ff9e6b;
+    float: left;
+}
+.mf {
+    width: 250px;
+    height: 100px;
+    background-color: #8c2727;
+    float: left;
+}
+.footer {
+    width: 400px;
+    height: 100px;
+    background-color: #d98d30;
+}
