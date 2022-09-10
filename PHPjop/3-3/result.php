@@ -1,5 +1,5 @@
 <?php
-$numbers=$_POST['number'];
+$numbers=$_POST['numbers'];
 $number=rand($numbers);
 $num=$numbers[$number];
 echo date("Y/m/d")."運勢は";
