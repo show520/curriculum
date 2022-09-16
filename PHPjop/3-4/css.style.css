@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(26,97,169);    text-align: center;
+    color: #fff;
+}
+.page1{
+    margin-top: 200px;
+
+}
+.title{
+   margin: 200px auto 0;
+   font-size: 80px;
+}
+.string{
+    height: 2px;
+    margin: 10px auto;
+    background-color: rgb(10,81,147);
+}
+.name{
+    width: 400px;
+    height: 40px;
+    margin-top: 20px;
+    margin-right: 20px;
+    padding-left: 20px;
+    font-size: 16px;
+}
+.sub{
+    width: 100px;
+    height: 40px;
+    font-size: 16px;
+    background-color: white;
+}
+p{
+    font-size: 30px;
+    margin-top: 30px;
+    color:white;
+}
+h2 .question {
+    font-size: 40px;
+}
+input .submit1{
+    width: 50px;
+    height: 30px;
+    font-size: 10px;
+    background-color: white;
+}
+.question{
+    margin-top: 20px;
+}
+input {
+    margin: 15px 10px;
+}
+.submit1{
+    width: 80px;
+    height: 30px;
+    font-size: 14px;
+    background-color: white;
+}
